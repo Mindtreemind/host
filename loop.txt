@@ -1,2 +1,4 @@
 how r u
 echo "i am done"
+love u very much
+i went out
